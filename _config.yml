@@ -23,7 +23,7 @@ github_username:  wangzz719
 
 # Build settings
 markdown: kramdown
-theme: jekyll-jacman
+theme: minima
 plugins:
   - jekyll-feed
 
