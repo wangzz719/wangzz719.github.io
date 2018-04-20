@@ -17,7 +17,7 @@ title: wangzhizhao's blog
 email: wzhizhao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   wangzhizhao's blog is used to record wangzhizhao's jobs and work.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wangzhizhao.club" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wangzz719
 
