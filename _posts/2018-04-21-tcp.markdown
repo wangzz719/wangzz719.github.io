@@ -1,6 +1,12 @@
-# TCP
+---
+layout: post
+title: TCP 头部、三次握手与四次分手
+description: TCP 头部、三次握手与四次分手
+tags: [tcp]
+---
+
 ## TCP 头部
-![tcpheader](/assets/img/tcpheader.png)
+![tcpheader]({{ site.url }}/assets/img/tcpheader.png)
 
 ### Source Port 和 Destination Port
 Source Port 和Destination Port 分别占用16位，表示源端口号和目的端口号，用于区别主机中的不同进程。
@@ -27,7 +33,7 @@ TCP Flags: TCP 首部中有6个标志比特，它们中的多个可同时被设�
 - FIN：表示发送端已经达到数据末尾，也就是说双方的数据传送完成，没有数据可以传送了，发送FIN标志位的TCP数据包后，连接将被断开；这个标志的数据包也经常被用于进行端口扫描
 
 ## TCP 建立连接和断开连接
-![tcp](/assets/img/tcp.jpeg)
+![tcp]({{ site.url }}/assets/img/tcp.jpeg)
 
 ### TCP 三次握手
 #### TCP 三次握手过程
