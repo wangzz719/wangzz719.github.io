@@ -17,7 +17,7 @@ def acquire_lock(conn, lock_name, acquire_timeout=10):
     return False
 ```
 
-## 获取带超时特性的锁
+## 释放锁
 ``` python
 def release_lock(conn, lock_name, identifier):
     pipe = conn.pipline(True)
@@ -36,7 +36,7 @@ def release_lock(conn, lock_name, identifier):
             pass
     return False
 ```
-## 释放锁
+## 获取带超时特性的锁
 ```python
 def acquire_lock_with_timeout(conn, lock_name, acquire_timeout=10, lock_timeout=10):
     identifier = str(uuid.uuid4())
