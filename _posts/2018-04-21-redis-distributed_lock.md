@@ -36,6 +36,7 @@ def release_lock(conn, lock_name, identifier):
             pass
     return False
 ```
+
 ## 获取带超时特性的锁
 ```python
 def acquire_lock_with_timeout(conn, lock_name, acquire_timeout=10, lock_timeout=10):
