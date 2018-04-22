@@ -1,7 +1,7 @@
 ---
 layout: post
-title: awk 相关应用
-description: awk 相关应用
+title: linux awk 相关应用
+description: linux awk 相关应用
 tags: [linux awk]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: netstat 命令
-description: netstat 命令
+title: linux netstat 命令
+description: linux netstat 命令
 tags: [linux netstat]
 ---
 
