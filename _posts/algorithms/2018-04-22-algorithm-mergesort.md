@@ -2,7 +2,7 @@
 layout: post
 title: 归并排序算法
 description: 归并排序算法
-tags: linux, awk
+tags: algorithm, mergesort
 ---
 
 ### 介绍
