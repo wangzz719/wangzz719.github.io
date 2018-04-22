@@ -2,7 +2,7 @@
 layout: post
 title: TCP 头部、三次握手与四次分手
 description: TCP 头部、三次握手与四次分手
-tags: [tcp]
+tags: tcp
 ---
 
 ## TCP 头部

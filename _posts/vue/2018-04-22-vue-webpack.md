@@ -2,7 +2,7 @@
 layout: post
 title: vue + webpack
 description: vue + webpack
-tags: [vue webpack]
+tags: vue, webpack
 ---
 
 ## vue 命令行工具安装

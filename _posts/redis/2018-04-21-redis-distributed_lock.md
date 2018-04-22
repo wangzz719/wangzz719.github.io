@@ -2,7 +2,7 @@
 layout: post
 title: Redis 实现分布式锁
 description: Redis 实现分布式锁
-tags: [redis distribute_lock]
+tags: redis, distribute_lock
 ---
 
 ## 获取普通锁

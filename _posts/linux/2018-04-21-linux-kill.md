@@ -2,7 +2,7 @@
 layout: post
 title: linux kill 命令
 description: linux kill 命令
-tags: [linux kill]
+tags: linux, kill
 ---
 
 kill 命令用于终止一个进程

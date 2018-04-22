@@ -2,7 +2,7 @@
 layout: post
 title: linux awk 相关应用
 description: linux awk 相关应用
-tags: [linux awk]
+tags: linux, awk
 ---
 
 ## 统计日志中出现次数最多的 ip

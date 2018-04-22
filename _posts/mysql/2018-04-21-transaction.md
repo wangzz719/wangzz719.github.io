@@ -2,7 +2,7 @@
 layout: post
 title: MySQL 事物
 description: MySQL 事物
-tags: [MySQL]
+tags: MySQL
 ---
 
 ### 隔离级别与读现象

@@ -2,7 +2,7 @@
 layout: post
 title: linux netstat 命令
 description: linux netstat 命令
-tags: [linux netstat]
+tags: linux, netstat
 ---
 
 netstat 可用于列出系统上所有的网络套接字连接情况，包括 tcp, udp 以及 unix 套接字，另外它还能列出处于监听状态（即等待接入请求）的套接字。
