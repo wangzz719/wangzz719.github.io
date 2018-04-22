@@ -6,7 +6,7 @@ tags: algorithm, leetcode, single, binarysearch, sorted, array
 ---
 
 ### 介绍
-[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+[LeetCode : 540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 
 给定一个增序数字序列，序列中除了一个数字出现一次外，其他数字均出现两次。
 二分查找寻找出只出现过一次的数字。
